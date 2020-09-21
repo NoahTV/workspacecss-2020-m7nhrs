@@ -17,10 +17,38 @@
 	/* ---------------------------------------------------------------------------------------------------------- 
 	01 Color ----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------------------------- */
+html{
+  background-color: hsla(210, 50%, 60%,0.8);
+  padding: 5%;
+}
+
+body{
+  background-color: hsla(5, 50%, 50%,0.9);
+  color: hsla(0, 0%, 0%, 1.0);
+}
+
+header h1{
+  background-color: hsla(0,100%, 63%, 0.9);
+}
+
+div.preamble, div.requirements, div.benefits{
+  color: hsla(0, 0%, 0%, 1.0);
+  background-color: hsla(5,80%, 65%, 1.0);
+}
+
+footer{
+  background-color: hsla(5, 50%, 30%, 1.0)
+}
 
 
+div.participation{
+  background-color: hsla(5,80%, 65%, 1.0)
+}
 
 
+aside.sidebar{
+  background-color: hsla(0,100%, 63%, 0.9)
+}
 
 /** 02 Typography -- Font  **/
 
