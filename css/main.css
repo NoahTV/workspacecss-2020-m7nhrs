@@ -55,12 +55,29 @@ aside.sidebar{
 
 div.summary{
   font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
 }
 
 body{
   font-family: 'Lato', sans-serif;
 }
+p{
+  font-size: 1.25em;
+}
 
+h3{
+  font-size:2.25em; font-weight: 200; letter-spacing: 1px;
+  line-height: 1em; padding: 0.5em 0 0.25em 0;
+}
+
+a{
+  text-decoration: none;
+  color:blueviolet
+}
+
+h1{
+  text-indent: -999px;
+}
 
 /** 03 Position, Size, layout **/
 
