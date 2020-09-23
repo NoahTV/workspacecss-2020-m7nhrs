@@ -80,8 +80,21 @@ h1{
 }
 
 /** 03 Position, Size, layout **/
+div,
+article,
+section,
+header,
+footer,
+nav,
+figure,
+li{
+  position: relative;
+}
 
-
+aside.sidebar{
+  position: absolute;
+  top: 3%
+}
 /** 04  Other decoration -- background Links **/ 
 
 
