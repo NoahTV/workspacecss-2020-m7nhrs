@@ -107,6 +107,15 @@ section.intro.div.preamble{
   margin-left: -30%;
   padding: 5% 5% 5% 30%;
 }
+
+div.extra1{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 30%;
+  height: 600px;
+  background-color: hsla(210, 50%, 60%,0.5);
+}
 /** 04  Other decoration -- background Links **/ 
 
 
