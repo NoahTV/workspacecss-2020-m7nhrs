@@ -151,6 +151,14 @@ h2{
 a{
   border-bottom: 1px inset black;
 }
+
+footer{
+  clear: both;
+  color: #fff;
+  padding: 1em 5%;
+  width: 50%;
+  margin: 10em auto;
+}
 /** 04  Other decoration -- background Links **/ 
 
 
