@@ -159,6 +159,10 @@ footer{
   width: 50%;
   margin: 10em auto;
 }
+
+div.summary{
+  display: none;
+}
 /** 04  Other decoration -- background Links **/ 
 
 
