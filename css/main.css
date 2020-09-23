@@ -93,7 +93,19 @@ li{
 
 aside.sidebar{
   position: absolute;
-  top: 3%
+  top: 3%;
+  right: 0;
+  width: 27%;
+}
+
+section.intro{
+  width: 60.7%;
+  padding: 5%;
+}
+
+section.intro.div.preamble{
+  margin-left: -30%;
+  padding: 5% 5% 5% 30%;
 }
 /** 04  Other decoration -- background Links **/ 
 
