@@ -108,6 +108,11 @@ section.intro.div.preamble{
   padding: 5% 5% 5% 30%;
 }
 
+div.page-wrapper{
+  padding: 5%;
+  z-index: 2;
+}
+
 div.extra1{
   position: fixed;
   top: 0;
@@ -115,6 +120,22 @@ div.extra1{
   width: 30%;
   height: 600px;
   background-color: hsla(210, 50%, 60%,0.5);
+  z-index: 1;
+}
+
+div.explanation{
+  float: left;
+  width: 40%;
+  padding: 5%;
+}
+div.participation{
+  margin-left: 50%;
+}
+
+div.benefits{
+  float: left;
+  width: 30%;
+  padding: 5%;
 }
 /** 04  Other decoration -- background Links **/ 
 
